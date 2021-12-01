@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sirishkumar/github_actions_basics/issues"
   },
-  "homepage": "https://github.com/sirishkumar/github_actions_basics#readme"
+  "homepage": "https://github.com/sirishkumar/github_actions_basics#readme",
+  "dependencies": {
+    "octo": "^0.1.0"
+  }
 }
